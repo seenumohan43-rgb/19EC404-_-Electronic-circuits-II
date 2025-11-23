@@ -1,5 +1,5 @@
 ## Exp. No. 2(b)
-**Date:**  
+**Date:**   8.09.2025 
 
 ## DESIGN OF WEIN BRIDGE OSCILLATOR
 <img width="971" height="85" alt="image" src="https://github.com/user-attachments/assets/f37d711d-3c1c-421b-baf2-c726a8b96d69" />
@@ -16,15 +16,17 @@
 
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
+|---45.2v-----|----20ms-----|-----50.01hz---------|----50hz---------------|
 |            |              |                      |                        |
 
 
 
 # Graph
+  ![WhatsApp Image 2025-11-23 at 22 07 37_0f090971](https://github.com/user-attachments/assets/40534ac4-4fc0-4ab5-b07c-52a2ef71138e)
 
 
 # Sample images 
+  ![WhatsApp Image 2025-11-23 at 22 14 42_f720768f](https://github.com/user-attachments/assets/626ccb0a-b39f-443c-a5b7-b5c60eb0f547)
 
 
 
